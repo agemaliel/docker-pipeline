@@ -1,5 +1,5 @@
 pipeline {
-    agemt {
+    agent {
         node {
             label "production"
         }
